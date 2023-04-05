@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Everything Everwhere All at Once",
+        "imgUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Everything_Everywhere_All_at_Once.jpg/220px-Everything_Everywhere_All_at_Once.jpg",
+        "year": "2020",
+        "rating": 10
+    },
+    {
+        "title": "Ant-Man and the Wasp: Quantumania",
+        "imgUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Ant-Man_and_the_Wasp_Quantumania_poster.jpg/220px-Ant-Man_and_the_Wasp_Quantumania_poster.jpg",
+        "year": "2021",
+        "rating": 8
+    },
+    {
+        "title": "John Wick",
+        "imgUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/John_Wick_TeaserPoster.jpg/220px-John_Wick_TeaserPoster.jpg",
+        "year": "2021",
+        "rating": 8
+    },
+    {
+        "title": "The Raid",
+        "imgUrl": "https://upload.wikimedia.org/wikipedia/en/9/9a/The_Raid_2011_poster.jpg",
+        "year": "2022",
+        "rating": 7
+    },
+    {
+        "title": "John Wick: Chapter 4",
+        "imgUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/John_Wick_-_Chapter_4_promotional_poster.jpg/220px-John_Wick_-_Chapter_4_promotional_poster.jpg",
+        "year": "2022",
+        "rating": 7
+    },
+    {
+        "title": "Avatar 2009",
+        "imgUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Avatar_%282009_film%29_poster.jpg/220px-Avatar_%282009_film%29_poster.jpg",
+        "year": "2009",
+        "rating": 10
+    }
+]
